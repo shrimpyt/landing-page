@@ -1,0 +1,69 @@
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    padding: 24px;
+}
+
+body {
+    font-family:sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button1{
+    margin: auto;
+
+}
+.hero {
+    background-color: #1F2937;
+    padding: 24px 96px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;
+}
+
+.sign-up {
+    display: flex;
+    gap: 0px;
+    justify-content: space-between;
+}
+
+.box-holder {
+    display: flex;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.action {
+    background-color: #3882F6;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+h4, li{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
